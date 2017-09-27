@@ -1,5 +1,5 @@
 {
-  "name": "logapi",
+  "name": "leni",
   "version": "1.0.0",
   "description": "NodeJS and MQTT API to logs controll",
   "main": "mqtt.js",
@@ -7,7 +7,7 @@
     "dev": "node mqtt.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Cleverson Ferreira",
+  "author": "Cleverson Ferreira <cleverson_reisferreira@hotmail.com> (https://cleversonferreira.com/)",
   "license": "ISC",
   "dependencies": {
     "mongodb": "^2.2.31",
