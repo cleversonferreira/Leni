@@ -1,0 +1,16 @@
+{
+  "name": "logapi",
+  "version": "1.0.0",
+  "description": "NodeJS and MQTT API to logs controll",
+  "main": "mqtt.js",
+  "scripts": {
+    "dev": "node mqtt.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cleverson Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "mqtt": "^2.11.0"
+  }
+}
