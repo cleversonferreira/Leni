@@ -5,7 +5,6 @@
   "main": "mqtt.js",
   "scripts": {
     "dev": "node mqtt.js",
-    "lint": "eslint *.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cleverson Ferreira <cleverson_reisferreira@hotmail.com> (https://cleversonferreira.com/)",
@@ -13,10 +12,5 @@
   "dependencies": {
     "mongodb": "^2.2.31",
     "mqtt": "^2.11.0"
-  },
-  "devDependencies": {
-    "eslint": "^4.7.2",
-    "eslint-config-airbnb-base": "^12.0.1",
-    "eslint-plugin-import": "^2.7.0"
   }
 }
